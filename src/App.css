@@ -106,6 +106,9 @@ a:hover {
 }
 
 .nav-toggle {
+    background: transparent;
+    border: none;
+    padding: 0;
     display: none;
     flex-direction: column;
     cursor: pointer;
